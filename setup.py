@@ -14,4 +14,5 @@ setup(
     install_requires = [
         'pyyaml',
     ]
+    zip_safe=False
 )
