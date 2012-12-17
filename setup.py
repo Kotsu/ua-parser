@@ -13,6 +13,6 @@ setup(
     data_files=[('',['regexes.yaml'])],
     install_requires = [
         'pyyaml',
-    ]
+    ],
     zip_safe=False
 )
